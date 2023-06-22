@@ -1,5 +1,5 @@
 # CycleGan
-- This is an implementation of the  Cyclle GAN algorithm for generating monet images using Tensorflow. The dataset used for this project is the Photos to monet dataset.
+- This is an implementation of the  Cycle GAN algorithm for generating monet images using Tensorflow. The dataset used for this project is the Photos to monet dataset.
 
 # The Output Given is very pleasing based on Visual Inspection
 ## Image After 6th Epoch
